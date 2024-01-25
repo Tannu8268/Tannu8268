@@ -1,3 +1,4 @@
+![logo](https://github.com/Tannu8268/Tannu8268/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Tannu Dahiya</h1>
 <h3 align="center">A passionate developer</h3>
 
